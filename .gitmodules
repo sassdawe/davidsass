@@ -3,4 +3,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/lynx"]
 	path = themes/lynx
-	url = https://github.com/jpanther/lynx.git
+	url = https://github.com/sassdawe/lynx.git
