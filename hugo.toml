@@ -38,7 +38,7 @@ disableKinds = ["taxonomy", "term"]
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
-    { poshgallery = "https://www.powershellgallery.com/packages?q=sassdawe" },
+    { poshgallery = "https://www.powershellgallery.com/profiles/sassdawe" },
     # { pinterest = "https://pinterest.com/username" },
     # { reddit = "https://reddit.com/user/username" },
     # { slack = "https://workspace.url/team/userid" },
