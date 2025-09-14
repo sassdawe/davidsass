@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "David Sass"
-  headline = "Speaker, SRE, MCT, Dreamer, Legend"
+  headline = "Domain Architect, Speaker, SRE, MCT, Dreamer, Legend"
   image = "img/author.jpg"  # path relative to static directory
 
   links = [
