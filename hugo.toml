@@ -14,7 +14,6 @@ disableKinds = ["taxonomy", "term"]
   image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    { email = "mailto:hello@davidsass.io" },
     { link = "https://kolislab.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -54,6 +53,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     { youtube = "https://www.youtube.com/playlist?list=PLeTb1wUwL7st2qR43hh3Xwgm4DKbLAY20" },
+    { email = "mailto:hello@davidsass.io" }
   ]
 
 [module]
