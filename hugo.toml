@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "David Sass"
-  headline = "Microsoft PowerShell MVP, Domain Architect, Speaker, SRE, MCT, Dreamer, Legend"
+  headline = "Microsoft PowerShell MVP, Architect, Speaker, SRE, MCT, Dreamer, Legend"
   image = "img/author-2026.jpg"  # path relative to static directory
 
   links = [
