@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
 [params.author]
   name = "David Sass"
   headline = "Microsoft PowerShell MVP, Domain Architect, Speaker, SRE, MCT, Dreamer, Legend"
-  image = "img/author.jpg"  # path relative to static directory
+  image = "img/author-2026.jpg"  # path relative to static directory
 
   links = [
     { microsoftmvp = "https://mvp.microsoft.com/en-US/mvp/profile/9124c139-ac8e-4fdb-a0f1-a2724a5659b1" },
